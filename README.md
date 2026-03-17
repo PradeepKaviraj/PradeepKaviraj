@@ -1,99 +1,92 @@
 # Hi, I'm Pradeep Kaviraj 👋
 
-🚀 React.js Developer | Next.js | TypeScript | Full Stack JavaScript  
+🚀 Frontend Engineer | React.js | Next.js | TypeScript  
 📍 Bengaluru, India  
 
 ---
 
 ## 💼 Professional Summary
 
-JavaScript developer specializing in **React.js, Next.js, and TypeScript**, with hands-on experience building scalable full-stack applications.
+Frontend-focused JavaScript developer specializing in **React.js, Next.js, and TypeScript**, with real-world experience building scalable, production-ready applications.
 
-- Built production-ready apps during a **6-month internship**
-- Strong in **component architecture & clean UI development**
-- Experienced with **REST APIs, state management, and performance optimization**
+- Completed **6-month internship delivering client projects**
+- Built **modular component systems for scalability**
+- Focused on **performance, responsiveness, and clean architecture**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
-- React.js
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-- Redux Toolkit
+React.js • Next.js (App Router) • TypeScript • Tailwind CSS • Redux Toolkit  
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- REST API Development
+Node.js • Express.js • REST APIs  
 
 ### 🗄 Database
-- MySQL
-- MongoDB
+MySQL • MongoDB  
 
 ### 🧰 Tools
-- Git & GitHub
-- Vercel
-- VS Code
-- Figma
+Git • GitHub • Vercel • Figma  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 Creative Academy
-Modern educational platform with interactive UI and smooth animations.
+### 🎓 Creative Academy (Live)
+👉 https://creative-academy-sepia.vercel.app  
+👉 https://github.com/PradeepKaviraj/creative-academy  
 
-🔗 https://github.com/PradeepKaviraj/creative-academy  
+- Built a **fully responsive, animation-rich educational platform**
+- Implemented **Next.js App Router with optimized rendering**
+- Improved performance using **lazy loading & component structuring**
+- Designed scalable UI with **reusable components**
 
 ---
 
 ### 🔐 Prison Management System
-Full-stack system to manage prisoner and staff records.
 
-- Built with React + Node.js + MySQL  
-- Designed REST APIs and database schema  
-- Implemented 15+ reusable components  
+- Full-stack system handling **multiple data modules with CRUD**
+- Designed **REST APIs + MySQL schema**
+- Built **15+ reusable components**
+- Ensured cross-browser consistency and performance
 
 ---
 
 ### 📚 Learning Management System (In Progress)
-Scalable LMS built with Next.js + TypeScript.
 
-- Redux Toolkit for global state  
-- Admin workflows and bulk data upload  
-- Modular architecture  
+- Built with **Next.js + TypeScript + Redux Toolkit**
+- Designed **admin workflows & scalable architecture**
+- Implementing **bulk data handling (XLSX)**
 
 ---
 
 ## 💼 Experience
 
-### 💻 Software Developer Intern — NxDesignz Studio (6 Months)
+### 💻 Software Developer Intern — NxDesignz Studio
 
-- Developed responsive web apps using React & Next.js  
-- Built reusable component libraries  
-- Worked with Git workflows & team collaboration  
-- Deployed projects using Vercel  
+- Delivered **3+ production-level applications**
+- Built reusable UI systems with **modular architecture**
+- Worked with **Git workflows & team collaboration**
+- Deployed apps using **Vercel**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepKaviraj&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=PradeepKaviraj&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 pradeepmvk12@gmail.com  
-- 🔗 https://linkedin.com/in/pradeep-kaviraj-283259324  
+📧 pradeepmvk12@gmail.com  
+🔗 https://linkedin.com/in/pradeep-kaviraj-283259324  
 
 ---
 
 ## ⚡ What I Focus On
 
-- Clean and scalable frontend architecture  
+- Scalable frontend architecture  
 - Performance optimization  
-- Building real-world production-ready apps  
+- Building production-ready UI systems  
