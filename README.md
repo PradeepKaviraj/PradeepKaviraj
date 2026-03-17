@@ -35,7 +35,7 @@ Git • GitHub • Vercel • Figma
 
 ### 🎓 Creative Academy (Live)
 👉 https://creative-academy-sepia.vercel.app  
-👉 https://github.com/PradeepKaviraj/creative-academy  
+👉 https://github.com/PradeepKaviraj/CREATIVE-ACADAMY  
 
 - Built a **fully responsive, animation-rich educational platform**
 - Implemented **Next.js App Router with optimized rendering**
